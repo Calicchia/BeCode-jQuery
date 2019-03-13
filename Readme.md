@@ -1,3 +1,5 @@
+[jQuery oefeningen](https://calicchia.github.io/BeCode-jQuery/)
+
 ## Eerste reeks oefeningen
 
 HTML en jQuery bestanden worden meegeleverd. Aandacht. Voer geen wijzigingen uit in de jQuery bestand. Alle uitvoeringen doen we via de main.js bestand.
