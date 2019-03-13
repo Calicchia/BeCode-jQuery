@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Exercise 1</title>
+</head>
+<body>
+
+  <h1>Take A Guess</h1>
+
+<fieldset>
+<!-- changed guess to more intuitive guessInput -->
+<input type="text" id="guessInput" placeholder=" Guess 1 thru 100 "><br>
+<!-- button elements do not have a declarative type of "button"
+     also added the click handler to the guess button
+-->
+<button onclick="checkGuess();">Guess</button>
+<button onclick="clearFields();">Reset</button>
+</fieldset>
+
+<fieldset>
+<p>Your current status:</p>
+<output id="status_output">You have yet to guess anything.</output>
+</fieldset>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="main.js"></script>
+</body>
+</html>
