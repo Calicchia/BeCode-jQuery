@@ -1,4 +1,4 @@
-#[jQuery oefeningen](https://calicchia.github.io/BeCode-jQuery/)
+## [jQuery oefeningen](https://calicchia.github.io/BeCode-jQuery/)
 
 ## Eerste reeks oefeningen
 
